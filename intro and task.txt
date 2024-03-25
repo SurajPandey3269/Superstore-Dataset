@@ -1,16 +1,5 @@
 As your client, I would like you to clean a dataset containing sales information from the past year. The tasks I’d like you to perform are:
 
-Remove duplicates: Ensure each transaction is unique.
-Handle missing values: Fill in missing data where possible or remove entries if necessary.
-Normalize data: Standardize the formats for dates, currency, and categorical data.
-Filter outliers: Identify and address any data points that are significantly different from others.
-Verify data accuracy: Check for and correct any inconsistencies in product names or IDs.
-For the dataset, you can use a publicly available dataset such as the “Superstore Sales Data” which can be found on data-sharing platforms like Kaggle. It’s a comprehensive dataset that includes order details, customer information, and sales figures, making it ideal for this task.
-
-Once the data is cleaned, I would like you to perform the following analysis:
-
 Calculate the total sales per quarter.
 Identify the top 5 best-selling products.
 Determine the average shipping time per product category.
-
-This analysis will help us understand our sales trends and operational efficiency better. Remember to document your cleaning process and the code used for analysis, as we value transparency and reproducibility in our projects. Good luck!
