@@ -1,5 +1,0 @@
-As your client, I would like you to clean a dataset containing sales information from the past year. The tasks I’d like you to perform are:
-
-Calculate the total sales per quarter.
-Identify the top 5 best-selling products.
-Determine the average shipping time per product category.
